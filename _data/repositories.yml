@@ -1,6 +1,6 @@
 github_users:
   - torvalds
-  - alshedivat
+  - greenyeast
 
 github_repos:
   - alshedivat/al-folio
@@ -9,4 +9,4 @@ github_repos:
   - jquery/jquery
   - FortAwesome/Font-Awesome
   - jpswalsh/academicons
-  - mathjax/MathJax
+
